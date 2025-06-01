@@ -1,0 +1,15 @@
+../Core/Src/main.c:79:6:AudioCodec_Initialize	1
+../Core/Src/main.c:140:6:AudioCodec_PlayTone	1
+../Core/Src/main.c:170:6:LED_TurnOn	1
+../Core/Src/main.c:177:6:LED_TurnOff	1
+../Core/Src/main.c:184:6:LED_TurnOnAll	1
+../Core/Src/main.c:191:6:LED_TurnOffAll	1
+../Core/Src/main.c:198:6:RunLEDOnlyMode	1
+../Core/Src/main.c:223:6:PlayMelodyWithLEDs	3
+../Core/Src/main.c:320:5:main	2
+../Core/Src/main.c:356:13:MX_GPIO_Init	1
+../Core/Src/main.c:380:6:SystemClock_Config	3
+../Core/Src/main.c:413:13:MX_I2C1_Init	2
+../Core/Src/main.c:431:13:MX_I2S3_Init	2
+../Core/Src/main.c:449:13:MX_DMA_Init	1
+../Core/Src/main.c:458:6:Error_Handler	1

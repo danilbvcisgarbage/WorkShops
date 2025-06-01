@@ -1,0 +1,15 @@
+../Core/Src/main.c:79:6:AudioCodec_Initialize	24	static
+../Core/Src/main.c:140:6:AudioCodec_PlayTone	32	static
+../Core/Src/main.c:170:6:LED_TurnOn	16	static
+../Core/Src/main.c:177:6:LED_TurnOff	16	static
+../Core/Src/main.c:184:6:LED_TurnOnAll	8	static
+../Core/Src/main.c:191:6:LED_TurnOffAll	8	static
+../Core/Src/main.c:198:6:RunLEDOnlyMode	8	static
+../Core/Src/main.c:223:6:PlayMelodyWithLEDs	16	static
+../Core/Src/main.c:320:5:main	8	static
+../Core/Src/main.c:356:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:380:6:SystemClock_Config	88	static
+../Core/Src/main.c:413:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:431:13:MX_I2S3_Init	8	static
+../Core/Src/main.c:449:13:MX_DMA_Init	16	static
+../Core/Src/main.c:458:6:Error_Handler	4	static,ignoring_inline_asm
